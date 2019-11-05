@@ -1,0 +1,11 @@
+public class User{
+	
+	private Integer username;
+	private String password;
+
+}
+
+关栓根大傻逼
+
+hello hi
+
